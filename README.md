@@ -25,13 +25,13 @@ GM is one of the first probabilistic public-key encryption schemes and works usi
 4. Run the notebook:
    jupyter notebook generalized_gm_code.ipynb
 
-### What This Project Covers
+## What This Project Covers
 
--Basics of the Goldwasser–Micali encryption scheme
--Quadratic residues & non-residues
--Bit-wise probabilistic encryption
--Generalized GM for multi-bit encryption
--Small experiments and observations
+- Basics of the Goldwasser–Micali encryption scheme
+- Quadratic residues & non-residues
+- Bit-wise probabilistic encryption
+- Generalized GM for multi-bit encryption
+- Small experiments and observations
 
 ## Purpose
 
