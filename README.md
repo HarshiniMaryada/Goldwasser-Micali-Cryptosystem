@@ -39,5 +39,6 @@ This project explores GM encryption, implements the generalized version, and stu
 
 ## Authors
 
-Devyani Remulkar
-Harshini Maryada
+- Harshini Maryada
+- Devyani Remulkar
+
