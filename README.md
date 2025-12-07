@@ -22,7 +22,8 @@ GM is one of the first probabilistic public-key encryption schemes and works usi
 3. Install required packages:
    ```bash
    pip install sympy gmpy2 numpy matplotlib
-4. jupyter notebook generalized_gm_code.ipynb
+4. Run the notebook:
+   jupyter notebook generalized_gm_code.ipynb
 
 ## What This Project Covers
 
